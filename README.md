@@ -124,6 +124,7 @@ Collect all Balatro mods and tools, welcome to add!
 - [Ace in the Hole](https://discord.com/channels/1116389027176787968/1215144701586575360) - Create a special deck that only contains **one Ace of each suit**! by `@Chamels`, `@UnknownEternity`
 - [Astronomer Deck](https://discord.com/channels/1116389027176787968/1215091624829517876) - A deck perfect for an aspiring astronomer! by `@Vicendithas`
 - [Borrowed deck](https://discord.com/channels/1116389027176787968/1213054535334109184) - Build a big deck with tons of free **mega standard packs**. by `@Rose Happy`
+- [RPG Classes](https://www.nexusmods.com/balatro/mods/148) - Adds 12 New Decks into the game based on different RPG Classes. by `@playfulrainbow`
 - [Dealer's Discount Deck](https://discord.com/channels/1116389027176787968/1214695661094572092) - Adds a Deck that starts with the **Clearance Sale** voucher. by `@Neon`
 - [Deck of 4](https://github.com/Steamopollys/Steamodded/blob/main/example_mods/Mods/DeckOf4s.lua) - Create a special deck that only contains **4**s! by [@Steamo](https://github.com/Steamopollys)
 - [Deck of 8](https://discord.com/channels/1116389027176787968/1220733310360359033) - Create a special deck that only contains 8s! by `@itiseren`
